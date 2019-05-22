@@ -90,4 +90,6 @@
         "when a user tries to pick up one of cards.\n\n"
     </string>
     <string name="action_settings">Settings</string>
+    <string name="currency_amount">Enter currency amount</string>
+    <string name="currency_base">NZD</string>
 </resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <currency>
+        <code>NZD</code>
+        <rate>1.0</rate>
+        <flag>🇳🇿</flag>
+        <name>New Zealand</name>
+    </currency>
+    <currency>
+        <code>EUR</code>
+        <rate>0.5833625015</rate>
+        <flag>🇪🇺</flag>
+        <name>Europe</name>
+    </currency>
+</resources>
